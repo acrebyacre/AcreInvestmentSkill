@@ -1,6 +1,6 @@
 ---
-name: fetch
-description: 获取一些标准信息
+name: company-fetch
+description: 获取公司标准信息
 ---
 
 ## 公司名称
