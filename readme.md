@@ -66,8 +66,8 @@
 | 行业对比研究   | “对比 XXX 行业的子行业”（XXX 代表行业）            | `industry-compare`                 |
 | 获取公司标准信息 | “获取 XXX”（XXX 代表公司）                   | `company-fetch`                    |
 | 公司概况速览   | “概述 XXX 公司”（XXX 代表公司）                | `company-quick-look`               |
-| 公司深度研究   | “分析 XXX 公司”（XXX 代表公司）                | `company-deep-research`            |
-| 公司财报增量信息 | “获取增量信息 XXX 公司”（XXX 代表公司）            | `company-financial-report-summary` |
+| 公司深度研究   | “深度分析 XXX 公司”（XXX 代表公司）              | `company-deep-research`            |
+| 公司财报增量信息 | “分析 XXX 公司 [报告期] 财报增量信息”（XXX 代表公司；报告期如 26Q2、2026H1、FY2026） | `company-financial-report-summary` |
 | 公司对比研究   | “对比 XXX”（XXX 代表一组公司）                 | `company-compare`                  |
 | 市场预期     | “市场对 XXX 公司的预期”（XXX 代表公司）            | `market-expectation`               |
 | 投资机会对比研究 | “对比投资机会 XXX”（XXX 代表一组公司）             | `opportunity-compare`              |
@@ -87,8 +87,8 @@
 | **公司研究**      |                                      |                                                                               |                      |
 | 获取公司标准信息      | “获取 XXX”（XXX 代表公司）                   | [company-fetch](company-fetch/SKILL.md)                                       |                      |
 | 公司概况速览        | “概述 XXX 公司”（XXX 代表公司）                | [company-quick-look](company-quick-look/SKILL.md)                             | 常用于 OnePage          |
-| 公司深度研究        | “分析 XXX 公司”（XXX 代表公司）                | [company-deep-research](company-deep-research/SKILL.md)                       |                      |
-| 公司财报增量信息      | “获取增量信息 XXX 公司”（XXX 代表公司）            | [company-financial-report-summary](company-financial-report-summary/SKILL.md) |                      |
+| 公司深度研究        | “深度分析 XXX 公司”（XXX 代表公司）              | [company-deep-research](company-deep-research/SKILL.md)                       |                      |
+| 公司财报增量信息      | “分析 XXX 公司 [报告期] 财报增量信息”（XXX 代表公司；报告期如 26Q2、2026H1、FY2026） | [company-financial-report-summary](company-financial-report-summary/SKILL.md) |                      |
 | 公司对比研究        | “对比 XXX”（XXX 代表一组公司）                 | [company-compare](company-compare/SKILL.md)                                   |                      |
 | **市场判断与投资决策** |                                      |                                                                               |                      |
 | 市场预期          | “市场对 XXX 公司的预期”（XXX 代表公司）            | [market-expectation](market-expectation/SKILL.md)                             |                      |
