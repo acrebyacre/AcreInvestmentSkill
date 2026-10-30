@@ -62,7 +62,7 @@
 |----------|--------------------------------------|------------------------------------|
 | 总结笔记     | “形成笔记 XXX”（XXX 代表某个问题、概念、行业知识或研究结论等） | `note-summary`                     |
 | 口述笔记整理   | “整理口述 XXX”“整理语音内容 XXX”“整理口头思考 XXX”（XXX 代表口述或语音转写内容） | `oral-summary`                     |
-| 会议录音与转录稿整理 | “整理会议录音 XXX”“整理业绩电话会 XXX”“整理股东会 XXX”“校对或补齐会议转录稿 XXX” | `meeting-transcript`               |
+| 会议纪要整理   | “整理会议录音 XXX”“整理业绩电话会 XXX”“整理股东会 XXX”“校对或补齐会议转录稿 XXX” | `meeting-transcript`               |
 | 总结阅读材料   | “总结观点 XXX”（XXX 代表某个阅读材料）             | `source-summary`                   |
 | 投资人研究    | “分析投资人 XXX”（XXX 代表投资人）               | `investor-research`                |
 | 事件梳理     | “梳理 XXX”（XXX 代表某个事件）                 | `event-timeline`                   |
@@ -78,24 +78,24 @@
 
 ## 8. Skill目录
 
-| 功能            | 触发词                                  | 对应 SKILL                                                                      | 备注                   |
-|---------------|--------------------------------------|-------------------------------------------------------------------------------|----------------------|
-| **研究工具**      |                                      |                                                                               |                      |
-| 总结笔记          | “形成笔记 XXX”（XXX 代表某个问题、概念、行业知识或研究结论等） | [note-summary](note-summary/SKILL.md)                                         |                      |
-| 口述笔记整理       | “整理口述 XXX”“整理语音内容 XXX”“整理口头思考 XXX”（XXX 代表口述或语音转写内容） | [oral-summary](oral-summary/SKILL.md)                                         | 忠实整理为完整书面笔记，不擅自总结或补充观点 |
-| 会议录音与转录稿整理   | “整理会议录音 XXX”“整理业绩电话会 XXX”“整理股东会 XXX”“校对或补齐会议转录稿 XXX” | [meeting-transcript](meeting-transcript/SKILL.md)                             | 保留完整会议进程，补齐缺失片段并核验关键数据 |
-| 阅读材料观点提炼      | “总结观点 XXX”（XXX 代表某个阅读材料）             | [source-summary](source-summary/SKILL.md)                                     |                      |
-| 投资人研究         | “分析投资人 XXX”（XXX 代表投资人）               | [investor-research](investor-research/SKILL.md)                               |                      |
-| 事件梳理          | “梳理 XXX”（XXX 代表某个事件）                 | [event-timeline](event-timeline/SKILL.md)                                     | 常用于梳理公司发展时间线         |
-| **行业研究**      |                                      |                                                                               |                      |
-| 行业研究          | “分析 XXX 行业”（XXX 代表行业）                | [industry-research](industry-research/SKILL.md)                               |                      |
-| 行业对比研究        | “对比 XXX 行业的子行业”（XXX 代表行业）            | [industry-compare](industry-compare/SKILL.md)                                 |                      |
-| **公司研究**      |                                      |                                                                               |                      |
-| 获取公司标准信息      | “获取 XXX”（XXX 代表公司）                   | [company-fetch](company-fetch/SKILL.md)                                       |                      |
-| 公司概况速览        | “概述 XXX 公司”（XXX 代表公司）                | [company-quick-look](company-quick-look/SKILL.md)                             | 常用于 OnePage          |
-| 公司深度研究        | “深度分析 XXX 公司”（XXX 代表公司）              | [company-deep-research](company-deep-research/SKILL.md)                       |                      |
+| 功能            | 触发词                                                        | 对应 SKILL                                                                      | 备注                   |
+|---------------|------------------------------------------------------------|-------------------------------------------------------------------------------|----------------------|
+| **研究工具**      |                                                            |                                                                               |                      |
+| 总结笔记          | “形成笔记 XXX”（XXX 代表某个问题、概念、行业知识或研究结论等）                       | [note-summary](note-summary/SKILL.md)                                         |                      |
+| 口述笔记整理       | “整理口述 XXX”“整理语音内容 XXX”“整理口头思考 XXX”（XXX 代表口述或语音转写内容）        | [oral-summary](oral-summary/SKILL.md)                                         | 忠实整理为完整书面笔记，不擅自总结或补充观点 |
+| 会议纪要整理   | “整理会议录音 XXX”“整理业绩电话会 XXX”“整理股东会 XXX”“校对或补齐会议转录稿 XXX”       | [meeting-transcript](meeting-transcript/SKILL.md)                             | 保留完整会议进程，补齐缺失片段并核验关键数据 |
+| 阅读材料观点提炼      | “总结观点 XXX”（XXX 代表某个阅读材料）                                  | [source-summary](source-summary/SKILL.md)                                     |                      |
+| 投资人研究         | “分析投资人 XXX”（XXX 代表投资人）                                     | [investor-research](investor-research/SKILL.md)                               |                      |
+| 事件梳理          | “梳理 XXX”（XXX 代表某个事件）                                       | [event-timeline](event-timeline/SKILL.md)                                     | 常用于梳理公司发展时间线         |
+| **行业研究**      |                                                            |                                                                               |                      |
+| 行业研究          | “分析 XXX 行业”（XXX 代表行业）                                      | [industry-research](industry-research/SKILL.md)                               |                      |
+| 行业对比研究        | “对比 XXX 行业的子行业”（XXX 代表行业）                                  | [industry-compare](industry-compare/SKILL.md)                                 |                      |
+| **公司研究**      |                                                            |                                                                               |                      |
+| 获取公司标准信息      | “获取 XXX”（XXX 代表公司）                                         | [company-fetch](company-fetch/SKILL.md)                                       |                      |
+| 公司概况速览        | “概述 XXX 公司”（XXX 代表公司）                                      | [company-quick-look](company-quick-look/SKILL.md)                             | 常用于 OnePage          |
+| 公司深度研究        | “深度分析 XXX 公司”（XXX 代表公司）                                    | [company-deep-research](company-deep-research/SKILL.md)                       |                      |
 | 公司财报增量信息      | “分析 XXX 公司 [报告期] 财报增量信息”（XXX 代表公司；报告期如 26Q2、2026H1、FY2026） | [company-financial-report-summary](company-financial-report-summary/SKILL.md) |                      |
-| 公司对比研究        | “对比 XXX”（XXX 代表一组公司）                 | [company-compare](company-compare/SKILL.md)                                   |                      |
-| **市场判断与投资决策** |                                      |                                                                               |                      |
-| 市场预期          | “市场对 XXX 公司的预期”（XXX 代表公司）            | [market-expectation](market-expectation/SKILL.md)                             |                      |
-| 投资机会对比研究      | “对比投资机会 XXX”（XXX 代表一组公司）             | [opportunity-compare](opportunity-compare/SKILL.md)                           | 在公司对比的基础上加入当前市值和市场预期 |
+| 公司对比研究        | “对比 XXX”（XXX 代表一组公司）                                       | [company-compare](company-compare/SKILL.md)                                   |                      |
+| **市场判断与投资决策** |                                                            |                                                                               |                      |
+| 市场预期          | “市场对 XXX 公司的预期”（XXX 代表公司）                                  | [market-expectation](market-expectation/SKILL.md)                             |                      |
+| 投资机会对比研究      | “对比投资机会 XXX”（XXX 代表一组公司）                                   | [opportunity-compare](opportunity-compare/SKILL.md)                           | 在公司对比的基础上加入当前市值和市场预期 |
