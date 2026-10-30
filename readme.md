@@ -62,6 +62,7 @@
 |----------|--------------------------------------|------------------------------------|
 | 总结笔记     | “形成笔记 XXX”（XXX 代表某个问题、概念、行业知识或研究结论等） | `note-summary`                     |
 | 口述笔记整理   | “整理口述 XXX”“整理语音内容 XXX”“整理口头思考 XXX”（XXX 代表口述或语音转写内容） | `oral-summary`                     |
+| 会议录音与转录稿整理 | “整理会议录音 XXX”“整理业绩电话会 XXX”“整理股东会 XXX”“校对或补齐会议转录稿 XXX” | `meeting-transcript`               |
 | 总结阅读材料   | “总结观点 XXX”（XXX 代表某个阅读材料）             | `source-summary`                   |
 | 投资人研究    | “分析投资人 XXX”（XXX 代表投资人）               | `investor-research`                |
 | 事件梳理     | “梳理 XXX”（XXX 代表某个事件）                 | `event-timeline`                   |
@@ -82,6 +83,7 @@
 | **研究工具**      |                                      |                                                                               |                      |
 | 总结笔记          | “形成笔记 XXX”（XXX 代表某个问题、概念、行业知识或研究结论等） | [note-summary](note-summary/SKILL.md)                                         |                      |
 | 口述笔记整理       | “整理口述 XXX”“整理语音内容 XXX”“整理口头思考 XXX”（XXX 代表口述或语音转写内容） | [oral-summary](oral-summary/SKILL.md)                                         | 忠实整理为完整书面笔记，不擅自总结或补充观点 |
+| 会议录音与转录稿整理   | “整理会议录音 XXX”“整理业绩电话会 XXX”“整理股东会 XXX”“校对或补齐会议转录稿 XXX” | [meeting-transcript](meeting-transcript/SKILL.md)                             | 保留完整会议进程，补齐缺失片段并核验关键数据 |
 | 阅读材料观点提炼      | “总结观点 XXX”（XXX 代表某个阅读材料）             | [source-summary](source-summary/SKILL.md)                                     |                      |
 | 投资人研究         | “分析投资人 XXX”（XXX 代表投资人）               | [investor-research](investor-research/SKILL.md)                               |                      |
 | 事件梳理          | “梳理 XXX”（XXX 代表某个事件）                 | [event-timeline](event-timeline/SKILL.md)                                     | 常用于梳理公司发展时间线         |
