@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议转录整理"
+  short_description: "忠实整理会议录音与转录稿，补齐缺失片段并核验关键数据"
+  default_prompt: "使用 $meeting-transcript 忠实整理这份会议录音或转录稿，并核验关键数据。"
